@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(img/background.jpg);    
+    
+}
+
+.about{
+    text-align: center;
+    justify-content: center;
+    background-color: whitesmoke;
+    height:400px; 
+    margin: auto;  
+    padding:50px;
+}
+.about_this_site {
+    font-size: 40px;
+}
+.para {
+    font-size: 25px;
+}
+
+.pdiv{
+display: flex;
+align-content: center;
+justify-content: center;
+min-height: 100vh;
+}
